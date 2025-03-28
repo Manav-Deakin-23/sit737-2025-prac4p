@@ -1,0 +1,7 @@
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 10 add 5, Result: 15","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 10 add 5, Result: 15","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers provided: num1=undefined, num2=undefined","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation requested: 10 subtract 5, Result: 5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers provided: num1=undefined, num2=undefined","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation requested: 10 subtract 5, Result: 5","service":"calculator-microservice"}
